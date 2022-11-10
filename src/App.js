@@ -1,9 +1,8 @@
-function App() {
+function App({data}) {
   return (
-    <div className="App">
-      Mauli naak. Last na ini!
-    </div>
+      <div>
+        
+      </div>
   );
 }
-
 export default App;
